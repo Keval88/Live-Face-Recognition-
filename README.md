@@ -73,10 +73,3 @@ Live Face Recongnition/
 - Make sure your webcam is working before running the program
 - For better accuracy, use a clear, well-lit reference image
 
-## License
-
-MIT License - Feel free to use and modify!
-
-## Author
-
-Created for learning purposes to teach Python and Computer Vision basics.
